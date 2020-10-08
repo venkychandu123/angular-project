@@ -31,12 +31,6 @@ export class RigistrationFormComponent implements OnInit {
 
    console.log(this.formvalues.FName);
    console.log(this.formvalues);
-   //console.log('Name:' + this.signup.get('firstname').value);
-   //console.log('phonenumber:' + this.signup.get('lastname').value);
-   //console.log('phonenumber:' + this.signup.get('phonenumber').value);
-   //console.log('email:' + this.signup.get('email').value);
-   //console.log('email:' + this.signup.get('age').value);
-   
 
   }
 

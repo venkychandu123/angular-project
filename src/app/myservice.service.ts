@@ -15,7 +15,7 @@ export class MyserviceService {
   }
 
   validatinguserdata(username,password){
-//we can perform data check throught http protocal
+
 return true;
   }
 
